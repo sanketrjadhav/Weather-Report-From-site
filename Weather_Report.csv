@@ -1,0 +1,16 @@
+Day,Date,Weather,Description,Temp,Wind,Humidity
+Tonight,5 MAY,Clear,"Generally clear. Hazy. Low 26ºC. SW winds at 15 to 25 km/h, diminishing to 5 to 10 km/h.",--26°,SW 19 km/h ,71%
+Wed,6 MAY,Sunny,Generally clear. Hazy. High 41ºC. Winds WSW at 15 to 25 km/h.,41°25°,WSW 18 km/h ,47%
+Thu,7 MAY,Sunny,Generally clear. Hazy. High 40ºC. Winds WSW at 15 to 25 km/h.,40°26°,WSW 19 km/h ,45%
+Fri,8 MAY,Sunny,Generally clear. Hazy. High 39ºC. Winds WSW at 15 to 25 km/h.,39°26°,WSW 17 km/h ,52%
+Sat,9 MAY,Sunny,Generally clear. Hazy. High 40ºC. Winds WSW at 15 to 25 km/h.,40°27°,WSW 17 km/h ,51%
+Sun,10 MAY,Sunny,Generally clear. Hazy. High 40ºC. Winds WSW at 15 to 25 km/h.,40°27°,WSW 17 km/h ,51%
+Mon,11 MAY,Mostly Sunny,Generally clear. Hazy. High 39ºC. Winds WSW at 10 to 15 km/h.,39°27°,WSW 16 km/h ,50%
+Tue,12 MAY,Sunny,Generally clear. Hazy. High 39ºC. Winds WSW at 15 to 25 km/h.,39°27°,WSW 18 km/h ,50%
+Wed,13 MAY,Mostly Sunny,Generally clear. Hazy. High 39ºC. Winds WSW at 15 to 25 km/h.,39°27°,WSW 17 km/h ,51%
+Thu,14 MAY,Mostly Sunny,Generally clear. Hazy. High 38ºC. Winds W at 15 to 25 km/h.,38°28°,W 18 km/h ,51%
+Fri,15 MAY,Partly Cloudy,Partly cloudy. Hazy. High 37ºC. Winds WSW at 15 to 25 km/h.,37°28°,WSW 18 km/h ,56%
+Sat,16 MAY,Partly Cloudy,Partly cloudy. Hazy. High 36ºC. Winds WSW at 15 to 25 km/h.,36°28°,WSW 17 km/h ,59%
+Sun,17 MAY,Scattered T-Storms,Scattered thunderstorms. Hazy. High 35ºC. Winds WSW at 15 to 25 km/h. Chance of rain 40%.,35°28°,WSW 18 km/h ,61%
+Mon,18 MAY,AM T-Storms,Morning thunderstorms. Hazy. High 36ºC. Winds WSW at 15 to 25 km/h. Chance of rain 40%.,36°28°,WSW 20 km/h ,60%
+Tue,19 MAY,Partly Cloudy,Partly cloudy. Hazy. High 36ºC. Winds WSW at 15 to 25 km/h.,36°28°,WSW 19 km/h ,61%
